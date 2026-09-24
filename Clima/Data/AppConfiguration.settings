@@ -1,0 +1,67 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Clima.Data" GeneratedClassName="AppConfiguration">
+  <Profiles />
+  <Settings>
+    <Setting Name="comboUrl" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;1038/caxias-ma&lt;/string&gt;
+  &lt;string&gt;94/saoluis-ma&lt;/string&gt;
+  &lt;string&gt;93/imperatriz-ma&lt;/string&gt;
+  &lt;string&gt;1035/bacabal-ma&lt;/string&gt;
+  &lt;string&gt;1034/acailandia-ma&lt;/string&gt;
+  &lt;string&gt;6580/afonsocunha-ma&lt;/string&gt;
+  &lt;string&gt;6581/aldeiasaltas-ma&lt;/string&gt;
+  &lt;string&gt;1041/coelhoneto-ma&lt;/string&gt;
+  &lt;string&gt;1040/codo-ma&lt;/string&gt;
+  &lt;string&gt;6594/saojoaodosoter-ma&lt;/string&gt;
+  &lt;string&gt;1036/balsas-ma&lt;/string&gt;
+  &lt;string&gt;1043/coroata-ma&lt;/string&gt;
+  &lt;string&gt;1052/pedreiras-ma&lt;/string&gt;
+  &lt;string&gt;1056/presidentedutra-ma&lt;/string&gt;
+  &lt;string&gt;1067/timon-ma&lt;/string&gt;
+  &lt;string&gt;1060/santaines-ma&lt;/string&gt;
+  &lt;string&gt;91/barradocorda-ma&lt;/string&gt;
+  &lt;string&gt;1068/tuntum-ma&lt;/string&gt;
+  &lt;string&gt;1052/pedreiras-ma&lt;/string&gt;
+  &lt;string&gt;5320/matoes-ma&lt;/string&gt;
+  &lt;string&gt;6000/timbiras-ma&lt;/string&gt;
+  &lt;string&gt;5980/peritoro-ma&lt;/string&gt;
+  &lt;string&gt;5186/axixa-ma&lt;/string&gt;
+  &lt;string&gt;6583/duquebacelar-ma&lt;/string&gt;
+  &lt;string&gt;1045/grajau-ma&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="listaCidades" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;1038/caxias-ma&lt;/string&gt;
+  &lt;string&gt;94/saoluis-ma&lt;/string&gt;
+  &lt;string&gt;93/imperatriz-ma&lt;/string&gt;
+  &lt;string&gt;5982/pioxii-ma&lt;/string&gt;
+  &lt;string&gt;1035/bacabal-ma&lt;/string&gt;
+  &lt;string&gt;1034/acailandia-ma&lt;/string&gt;
+  &lt;string&gt;6580/afonsocunha-ma&lt;/string&gt;
+  &lt;string&gt;6581/aldeiasaltas-ma&lt;/string&gt;
+  &lt;string&gt;1041/coelhoneto-ma&lt;/string&gt;
+  &lt;string&gt;1040/codo-ma&lt;/string&gt;
+  &lt;string&gt;6594/saojoaodosoter-ma&lt;/string&gt;
+  &lt;string&gt;1036/balsas-ma&lt;/string&gt;
+  &lt;string&gt;1043/coroata-ma&lt;/string&gt;
+  &lt;string&gt;1052/pedreiras-ma&lt;/string&gt;
+  &lt;string&gt;1056/presidentedutra-ma&lt;/string&gt;
+  &lt;string&gt;1067/timon-ma&lt;/string&gt;
+  &lt;string&gt;1060/santaines-ma&lt;/string&gt;
+  &lt;string&gt;91/barradocorda-ma&lt;/string&gt;
+  &lt;string&gt;1068/tuntum-ma&lt;/string&gt;
+  &lt;string&gt;1052/pedreiras-ma&lt;/string&gt;
+  &lt;string&gt;5320/matoes-ma&lt;/string&gt;
+  &lt;string&gt;6000/timbiras-ma&lt;/string&gt;
+  &lt;string&gt;5980/peritoro-ma&lt;/string&gt;
+  &lt;string&gt;5186/axixa-ma&lt;/string&gt;
+  &lt;string&gt;6583/duquebacelar-ma&lt;/string&gt;
+  &lt;string&gt;1045/grajau-ma&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,7 @@
+﻿ARQUIVO DE CONFIGURAÇÃO DO SISTEMA 
+
+
+TAG DO AGITPACCAGE  //*[@class='NOME']
+
+
+

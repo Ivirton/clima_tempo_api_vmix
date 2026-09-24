@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Clima.Data" GeneratedClassName="Xpath">
+  <Profiles />
+  <Settings>
+    <Setting Name="nome" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/html/body/div[3]/div[6]/div[3]/div[1]/div[2]/div[1]/div/span/text()</Value>
+    </Setting>
+    <Setting Name="indice" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/html/body/div[3]/div[6]/div[3]/div[1]/div[2]/div[2]/div[2]/div[1]/ul/li[2]/div/span</Value>
+    </Setting>
+    <Setting Name="min" Type="System.String" Scope="User">
+      <Value Profile="(Default)">min-temp-1</Value>
+    </Setting>
+    <Setting Name="max" Type="System.String" Scope="User">
+      <Value Profile="(Default)">max-temp-1</Value>
+    </Setting>
+    <Setting Name="umdMin" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/html/body/div[3]/div[6]/div[3]/div[1]/div[2]/div[2]/div[2]/div[1]/ul/li[4]/div/span[2]</Value>
+    </Setting>
+    <Setting Name="umdMax" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/html/body/div[3]/div[6]/div[3]/div[1]/div[2]/div[2]/div[2]/div[1]/ul/li[4]/div/span[4]</Value>
+    </Setting>
+    <Setting Name="vento" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/html/body/div[3]/div[6]/div[3]/div[1]/div[2]/div[2]/div[2]/div[1]/ul/li[3]/div</Value>
+    </Setting>
+    <Setting Name="status" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/html/body/div[3]/div[6]/div[3]/div[1]/div[2]/div[2]/div[1]/div[1]/p</Value>
+    </Setting>
+    <Setting Name="nomeAgora" Type="System.String" Scope="User">
+      <Value Profile="(Default)">-font-base -light</Value>
+    </Setting>
+    <Setting Name="tempoAgora" Type="System.String" Scope="User">
+      <Value Profile="(Default)">-bold -gray-dark-2 -font-55 _margin-l-20 _center</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
